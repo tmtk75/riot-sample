@@ -1,0 +1,19 @@
+{
+  "name": "riot-sample",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "riot": "^2.0.12"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.1",
+    "gulp": "^3.8.11",
+    "gulp-riot": "^0.2.12"
+  }
+}
