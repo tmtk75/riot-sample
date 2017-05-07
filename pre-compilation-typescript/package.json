@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "riot-cli": "^3.0.1",
+    "typescript-simple": "^8.0.0"
+  }
+}
