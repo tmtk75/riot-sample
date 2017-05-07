@@ -1,3 +1,6 @@
+watch: src/*.tag
+	riot -w src dist
+
 dist/sample.js: sample.tag ./node_module/.bin/riot
 	riot --type typescript sample.tag dist
 
